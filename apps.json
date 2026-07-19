@@ -1,0 +1,37 @@
+{
+  "$schema": "https://raw.githubusercontent.com/SideStore/sidestore-source-types/main/schema.json",
+  "name": "Sukavina Internal",
+  "identifier": "net.sukavinagroup.sidestore",
+  "sourceURL": "https://raw.githubusercontent.com/nguyenanhtruongvn/sukavina-sidestore/main/apps.json",
+  "apps": [
+    {
+      "name": "Sukavina",
+      "bundleIdentifier": "net.sukavinagroup.portal",
+      "developerName": "Sukavina Group",
+      "subtitle": "Cổng thông tin nội bộ Sukavina",
+      "localizedDescription": "Ứng dụng nội bộ dành cho nhân viên Sukavina. Theo dõi thông báo, bài viết, chấm công, ngày phép và thông tin tài khoản trên iPhone.",
+      "iconURL": "https://raw.githubusercontent.com/nguyenanhtruongvn/sukavina-sidestore/main/icon.png",
+      "tintColor": "D91F2B",
+      "permissions": [
+        {
+          "type": "network",
+          "usageDescription": "Kết nối an toàn tới hệ thống nội bộ Sukavina."
+        },
+        {
+          "type": "faceid",
+          "usageDescription": "Đăng nhập an toàn bằng Face ID hoặc Touch ID khi người dùng bật tính năng."
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-07-19",
+          "localizedDescription": "Bản nội bộ đầu tiên trên SideStore, hỗ trợ iOS 17 trở lên và đăng nhập sinh trắc học.",
+          "downloadURL": "https://github.com/nguyenanhtruongvn/sukavina-sidestore/releases/download/v1.0-1/Sukavina.ipa",
+          "size": 2109611,
+          "minOSVersion": "17.0"
+        }
+      ]
+    }
+  ]
+}
