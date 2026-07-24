@@ -1,5 +1,9 @@
 # Sukavina Internal SideStore Source
 
+<p align="center">
+  <img src="icon.png" width="180" alt="Sukavina">
+</p>
+
 Nguon cap nhat noi bo cho ung dung Sukavina tren iOS.
 
 ## Them vao SideStore
