@@ -24,6 +24,14 @@
       ],
       "versions": [
         {
+          "version": "2.1.54",
+          "date": "2026-08-10T08:19:04Z",
+          "localizedDescription": "Bản cập nhật nội bộ tự động, build 187.",
+          "downloadURL": "https://github.com/nguyenanhtruongvn/sukavina-sidestore/releases/download/v2.1.54/Sukavina.ipa",
+          "size": 10097887,
+          "minOSVersion": "14.0"
+        },
+        {
           "version": "2.1.53",
           "date": "2026-08-10T08:13:17Z",
           "localizedDescription": "Bản cập nhật nội bộ tự động, build 186.",
@@ -37,14 +45,6 @@
           "localizedDescription": "Bản cập nhật nội bộ tự động, build 184.",
           "downloadURL": "https://github.com/nguyenanhtruongvn/sukavina-sidestore/releases/download/v2.1.52/Sukavina.ipa",
           "size": 10108001,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "2.1.51",
-          "date": "2026-08-10T07:39:35Z",
-          "localizedDescription": "Bản cập nhật nội bộ tự động, build 182.",
-          "downloadURL": "https://github.com/nguyenanhtruongvn/sukavina-sidestore/releases/download/v2.1.51/Sukavina.ipa",
-          "size": 10099072,
           "minOSVersion": "14.0"
         }
       ]
