@@ -25,10 +25,10 @@
       "versions": [
         {
           "version": "2.1.53",
-          "date": "2026-08-10T08:11:42Z",
-          "localizedDescription": "Bản cập nhật nội bộ tự động, build 185.",
+          "date": "2026-08-10T08:13:17Z",
+          "localizedDescription": "Bản cập nhật nội bộ tự động, build 186.",
           "downloadURL": "https://github.com/nguyenanhtruongvn/sukavina-sidestore/releases/download/v2.1.53/Sukavina.ipa",
-          "size": 10097767,
+          "size": 10097757,
           "minOSVersion": "14.0"
         },
         {
