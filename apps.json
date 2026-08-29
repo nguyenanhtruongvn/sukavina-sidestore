@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/SideStore/sidestore-source-types/main/schema.json",
-  "name": "Sukavina Internal",
+  "name": "Sukavina",
   "identifier": "net.sukavinagroup.sidestore",
   "sourceURL": "https://raw.githubusercontent.com/nguyenanhtruongvn/sukavina-sidestore/main/apps.json",
   "apps": [
