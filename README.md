@@ -11,7 +11,7 @@ Nguon cap nhat noi bo cho ung dung Sukavina tren iOS.
 Dung URL nguon sau:
 
 ```text
-https://raw.githubusercontent.com/nguyenanhtruongvn/sukavina-sidestore/main/apps.json
+https://raw.githubusercontent.com/nat/apps.json
 ```
 
 IPA duoc phat hanh qua GitHub Releases. Manifest su dung dinh dang AltSource v2 va chi cong bo toi da ba phien ban gan nhat.
