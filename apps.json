@@ -48,6 +48,35 @@
           "minOSVersion": "14.0"
         }
       ]
+    },
+    {
+      "name": "Sukavina User",
+      "bundleIdentifier": "net.sukavinagroup.user",
+      "developerName": "Sukavina Group",
+      "subtitle": "Cổng thông tin nội bộ Sukavina",
+      "localizedDescription": "Ứng dụng nội bộ dành cho nhân viên Sukavina.",
+      "iconURL": "https://raw.githubusercontent.com/nguyenanhtruongvn/sukavina-sidestore/main/icon.png",
+      "tintColor": "D91F2B",
+      "permissions": [
+        {
+          "type": "network",
+          "usageDescription": "Kết nối an toàn tới hệ thống nội bộ Sukavina."
+        },
+        {
+          "type": "faceid",
+          "usageDescription": "Đăng nhập an toàn bằng Face ID hoặc Touch ID khi người dùng bật tính năng."
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.0.5",
+          "date": "2026-08-29T06:20:37Z",
+          "localizedDescription": "Sukavina 1.0.5, build 24.",
+          "downloadURL": "https://github.com/nguyenanhtruongvn/sukavina-sidestore/releases/download/v1.0.5/Sukavina.ipa",
+          "size": 8072003,
+          "minOSVersion": "14.0"
+        }
+      ]
     }
   ]
 }
