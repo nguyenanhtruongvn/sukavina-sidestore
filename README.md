@@ -1,4 +1,4 @@
-# Sukavina Internal SideStore Source
+# Sukavina SideStore Source
 
 <p align="center">
   <img src="icon.png" width="180" alt="Sukavina">
