@@ -5,7 +5,7 @@
   "sourceURL": "https://raw.githubusercontent.com/nguyenanhtruongvn/sukavina-sidestore/main/apps.json",
   "apps": [
     {
-      "name": "Sukavina User",
+      "name": "Sukavina",
       "bundleIdentifier": "net.sukavinagroup.user",
       "developerName": "Sukavina",
       "subtitle": "Cổng thông tin nội bộ Sukavina",
