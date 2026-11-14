@@ -24,6 +24,14 @@
       ],
       "versions": [
         {
+          "version": "1.1.28",
+          "date": "2026-11-14T01:18:33Z",
+          "localizedDescription": "Sukavina 1.1.28, build 147.",
+          "downloadURL": "https://github.com/nguyenanhtruongvn/sukavina-sidestore/releases/download/v1.1.28/Sukavina.ipa",
+          "size": 6532935,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.1.27",
           "date": "2026-11-12T07:33:48Z",
           "localizedDescription": "Sukavina 1.1.27, build 146.",
@@ -37,14 +45,6 @@
           "localizedDescription": "Sukavina 1.1.26, build 145.",
           "downloadURL": "https://github.com/nguyenanhtruongvn/sukavina-sidestore/releases/download/v1.1.26/Sukavina.ipa",
           "size": 6514688,
-          "minOSVersion": "17.0"
-        },
-        {
-          "version": "1.1.25",
-          "date": "2026-11-12T04:38:39Z",
-          "localizedDescription": "Sukavina 1.1.25, build 144.",
-          "downloadURL": "https://github.com/nguyenanhtruongvn/sukavina-sidestore/releases/download/v1.1.25/Sukavina.ipa",
-          "size": 6513990,
           "minOSVersion": "17.0"
         }
       ]
